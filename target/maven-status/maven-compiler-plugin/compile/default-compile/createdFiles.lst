@@ -1,0 +1,5 @@
+com\dnchamba\arqapp\rest\dao\ProductDAO.class
+com\dnchamba\arqapp\rest\ws\ProductService.class
+com\dnchamba\arqapp\rest\model\Product.class
+com\dnchamba\arqapp\rest\database\DatabaseClass.class
+com\dnchamba\arqapp\rest\ws\Configuration.class
